@@ -1,0 +1,3 @@
+- Validar entradas fornecidas para evitar ataques de injection
+- Sanitizar os dados de entrada
+- Usar sempre as permissões minimas necessárias, evitar usar sudo
